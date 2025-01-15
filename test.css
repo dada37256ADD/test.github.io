@@ -7,10 +7,10 @@ text-align: center;
 nav {
     background-color: rgba(0, 0, 0, 0.8);
     padding: 10px;
-    width: 100%; /* Assure que la barre prend toute la largeur */
-    position: fixed; /* Fixe la barre en haut de l'écran */
-    top: 0; /* Place-la en haut de la page */
-    left: 0; /* Commence à gauche */
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0; 
 }  
 a {
 color: #D2E679;
